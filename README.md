@@ -1,17 +1,21 @@
-# ingredients_scanner
+# Ingredient Scanner
 
-A application for finding black listed ingredients when buying packaged foods.
+A project that makes it easier to scan for ingredients
 
-## Getting Started
+## Datebase used
 
-This project is a starting point for a Flutter application.
+None
 
-A few resources to get you started if this is your first Flutter project:
+## Features
+- Scan Ingredients
+- Search Ingredients
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Platforms
+Works on Android and iOS
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Ingredient-Search
+## Download The App
+# Android
+You can download the apk that's attached to the repository to use the app on Android
+
+# iOS
+You can clone the repository and run the app on you iPhone (Need a Mac for this)
